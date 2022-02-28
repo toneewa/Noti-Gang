@@ -1,6 +1,6 @@
 ﻿Windows Registry Editor Version 5.00
 
 [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Run]
-"Noti-Gang"="C:\\Noti-Gang\\Noti-Gang_JenaUrf.exe"
+"Noti-Gang_JenaUrf"="C:\\Noti-Gang\\Noti-Gang_JenaUrf.exe"
 
 
